@@ -3,6 +3,5 @@
             margin-top-2 margin-bottom-1
             padding-2"
 > 
-  {% image_with_class img_path "width-200" "" %}
+  <img src="{{ include.img_path | relative_url }}" class="width-200" alt="">
 </div>
-
