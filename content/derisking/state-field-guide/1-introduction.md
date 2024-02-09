@@ -16,12 +16,11 @@ eleventyNavigation:
 By **Robin Carnahan**, **Randy Hart** and **Waldo Jaquith**<br>
 18F, Technology Transformation Service, General Services Administration
 
-{% include 'derisking/download_guide.html' pdf_path: "assets/derisking/dist/state-software-budgeting-handbook.pdf" %}
+{% include 'derisking/download_guide.html' pdf_path="assets/derisking/dist/state-software-budgeting-handbook.pdf" %}
 
 ## Introduction
 
-{% include 'derisking/chapter_image.html' img_path: "assets/derisking/img/pie-chart-circle-1.svg" %}
-
+{% include 'derisking/chapter_image.html' img_path="assets/derisking/img/pie-chart-circle-1.svg" %}
 
 Only 13% of large government software projects are successful.[^13pct] State IT projects, in particular, are often challenged because states lack basic knowledge about modern software development, relying on outdated procurement processes. Every year, the federal government matches billions of dollars in funding to state and local governments to maintain and modernize IT systems used to implement federal programs such as Medicaid, child welfare benefits, housing, and unemployment insurance. Efforts to modernize those legacy systems fail at an alarmingly high rate and at great cost to the federal budget.
 
