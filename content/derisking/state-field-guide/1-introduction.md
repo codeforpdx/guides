@@ -16,7 +16,7 @@ eleventyNavigation:
 By **Robin Carnahan**, **Randy Hart** and **Waldo Jaquith**<br>
 18F, Technology Transformation Service, General Services Administration
 
-{% include 'derisking/download_guide.html' pdf_path: "/assets/derisking/dist/state-software-budgeting-handbook.pdf" %}
+{% include 'derisking/download_guide.html' pdf_path: "assets/derisking/dist/state-software-budgeting-handbook.pdf" %}
 
 ## Introduction
 
